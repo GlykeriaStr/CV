@@ -1,7 +1,7 @@
 ## GLYKERIA STRAVODIMOU
 
-**Junior full stack developer** in the making!
-I am currently learning to code at Makers Academy (a 16 week software development bootcamp). I've chose this career because I love solving problems and creating things.  
+**Junior back end developer** in the making!
+I am currently learning to code at Makers Academy (a 16 week software development bootcamp).  
 
 ## Projects
 
@@ -12,13 +12,18 @@ I am currently learning to code at Makers Academy (a 16 week software developmen
 
 ## Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**War of the Worlds - Immersive Experience** (March 2019 - December 2019)  
+FOH
 
 - Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**National Theatre** (April 2016 - August 2016)  
+Actor
+
+- Any experience relevent to software development
+
+**Theatre** (2013 - 2014)  
+Director's Assistant
 
 - Any experience relevent to software development
 
@@ -43,26 +48,36 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (January 2021 - March 2021)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
+- SQL, PostGres
 - Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- RSpec, Capybara, Jasmine
+- CI/CD tools, Heroku
 
-#### Your University / College (start_date to end_date)
+#### University of Ioannina, Greece (2007 - 2011)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA in Fine Arts
+- Specialised on printmaking
+- Art history
+- Life drawing
 
-#### Any other qualifications
+#### Drama Studio London (2013 - 2015)
 
-That in some arguable way make you a better software developer or well-rounded person
+- Studied acting for two years
+
+## Additional Skills
+
+#### Languages
+
+- English: Full professional fluency
+- Greek: Native fluency
 
 ## Hobbies
 
 - Cooking : I think I love eating more than cooking but I have to make it first.
 - Hiking : Every chance I get I will leave London to go for a hike. I am in my most relaxed state.
 - Anything that has to do with my dog : I just love that dog so much!
-- Gaming : Any sort of game, be it on a console or board game. 
+- Gaming : Any sort of game, be it on a console or board game.
