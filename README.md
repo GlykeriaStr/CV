@@ -11,7 +11,7 @@ I am a junior back end developer and graduate of Makers Academy. I value clean, 
 | [MakersBnB](https://github.com/GlykeriaStr/MakersBnB)                | My first group Project                                                                                                                        | Ruby, Sinatra, Capybara, Rspec, PostreSQL, HTML, CSS             |
 | [Belarus](https://github.com/GlykeriaStr/belarus)                    | A note taking app                                                                                                                             | Vanilla Javascript, HTML, CSS, created our own testing framework |
 | [Pipeface](https://github.com/GlykeriaStr/acebook--Pipeface-)        | A facebook clone                                                                                                                              | Ruby, Rails, Devise, Rspec, Capybara, Circle CI/CD               |
-| [Spring Onion](https://github.com/GlykeriaStr/SmellsLikeGreenSpirit) | Final Project: a mobile app that allows users to be able to calculate the carbon footprint of car journeys and gives the option to offset it. | React Native, Expo, Secure Storage, Jest, Yarn                   |
+| [Spring Onion](https://github.com/GlykeriaStr/SmellsLikeGreenSpirit) | Final Project: a mobile app that allows users to be able to calculate the carbon footprint of car journeys and gives the option to offset it. | React Native, Expo, Javascript, Secure Storage, Jest, Yarn       |
 
 ## Experience
 
