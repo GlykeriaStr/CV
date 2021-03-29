@@ -1,8 +1,15 @@
-## GLYKERIA STRAVODIMOU
+<div align='center'>
 
-[Projects](##Projects) | [Skills](##Skills) | [Education](##Education)
+# GLYKERIA STRAVODIMOU
+
+<a href='https://www.linkedin.com/in/glykeria-stravodimou-0ab199209/'>
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+[Projects](##Projects) | [Skills](##Skills) | [Education](##Education) | [Experience](##Experience) | [Hobbies](##Hobbies)
 
 I am a junior back end developer and graduate of Makers Academy. I value clean, readable and well tested code. In a previous life I was an actor in a CoronaVirus world, so I decided to take my future into my hands and started my coding journey. After a short period of self-learning I signed up with Makers Academy to help me towards my professional debut in the tech industry.
+
+</div>
 
 ## Projects
 
@@ -12,23 +19,6 @@ I am a junior back end developer and graduate of Makers Academy. I value clean, 
 | [Belarus](https://github.com/GlykeriaStr/belarus)                    | A note taking app                                                                                                                             | Vanilla Javascript, HTML, CSS, created our own testing framework |
 | [Pipeface](https://github.com/GlykeriaStr/acebook--Pipeface-)        | A facebook clone                                                                                                                              | Ruby, Rails, Devise, Rspec, Capybara, Circle CI/CD               |
 | [Spring Onion](https://github.com/GlykeriaStr/SmellsLikeGreenSpirit) | Final Project: a mobile app that allows users to be able to calculate the carbon footprint of car journeys and gives the option to offset it. | React Native, Expo, Javascript, Secure Storage, Jest, Yarn       |
-
-## Experience
-
-**War of the Worlds - Immersive Experience** (March 2019 - December 2019)  
-FOH
-
-- Any experience relevent to software development
-
-**National Theatre** (April 2016 - August 2016)  
-Actor
-
-- Any experience relevent to software development
-
-**Theatre** (2013 - 2014)  
-Director's Assistant
-
-- Any experience relevent to software development
 
 ## Skills
 
@@ -48,6 +38,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Languages
+
+- English: Full professional fluency
+- Greek: Native fluency
 
 ## Education
 
@@ -71,12 +66,22 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Art history
 - Life drawing
 
-## Additional Skills
+## Experience
 
-#### Languages
+**War of the Worlds - Immersive Experience** (March 2019 - December 2019)  
+FOH
 
-- English: Full professional fluency
-- Greek: Native fluency
+- Any experience relevent to software development
+
+**National Theatre** (April 2016 - August 2016)  
+Actor
+
+- Any experience relevent to software development
+
+**Theatre** (2013 - 2014)  
+Director's Assistant
+
+- Any experience relevent to software development
 
 ## Hobbies
 
