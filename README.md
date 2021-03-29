@@ -1,14 +1,17 @@
 ## GLYKERIA STRAVODIMOU
 
-**Junior back end developer** in the making!
-I am currently learning to code at Makers Academy (a 16 week software development bootcamp).  
+[Projects](##Projects) | [Skills](##Skills) | [Education](##Education)
+
+I am a junior back end developer and graduate of Makers Academy. I value clean, readable and well tested code. In a previous life I was an actor in a CoronaVirus world, so I decided to take my future into my hands and started my coding journey. After a short period of self-learning I signed up with Makers Academy to help me towards my professional debut in the tech industry.
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Project                                                              | Description                                                                                                                                   | Technologies                                                     |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| [MakersBnB](https://github.com/GlykeriaStr/MakersBnB)                | My first group Project                                                                                                                        | Ruby, Sinatra, Capybara, Rspec, PostreSQL, HTML, CSS             |
+| [Belarus](https://github.com/GlykeriaStr/belarus)                    | A note taking app                                                                                                                             | Vanilla Javascript, HTML, CSS, created our own testing framework |
+| [Pipeface](https://github.com/GlykeriaStr/acebook--Pipeface-)        | A facebook clone                                                                                                                              | Ruby, Rails, Devise, Rspec, Capybara, Circle CI/CD               |
+| [Spring Onion](https://github.com/GlykeriaStr/SmellsLikeGreenSpirit) | Final Project: a mobile app that allows users to be able to calculate the carbon footprint of car journeys and gives the option to offset it. | React Native, Expo, Secure Storage, Jest, Yarn                   |
 
 ## Experience
 
@@ -52,10 +55,14 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
+- Ruby, Rails, JavaScript, React
 - SQL, PostGres
-- Ruby, Rails, JavaScript
-- RSpec, Capybara, Jasmine
+- RSpec, Capybara, Jasmine, Jest
 - CI/CD tools, Heroku
+
+#### Drama Studio London (2013 - 2015)
+
+- Acting
 
 #### University of Ioannina, Greece (2007 - 2011)
 
@@ -63,10 +70,6 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Specialised on printmaking
 - Art history
 - Life drawing
-
-#### Drama Studio London (2013 - 2015)
-
-- Studied acting for two years
 
 ## Additional Skills
 
