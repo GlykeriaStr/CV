@@ -22,20 +22,23 @@ I am a junior back end developer and graduate of Makers Academy. I value clean, 
 
 ## Skills
 
-#### Like to learn
-
-Lego - trying something new - learned guitar - french,italian,english
-
 #### Communication
 
 hospitality experience
 
-#### Time management
+#### Growth mindset
 
-#### Fast Learner
+I am curious and always looking to learn. I value feedback as a learning tool, and I try to offer constructive feedback to help my teammates improve.
+
+#### Creativity
+
+art - Theatre
+
+#### Fast Learner - Like to learn
 
 learning lines
 woftw experience
+Lego - trying something new - learned guitar - french,italian,english
 
 #### Languages
 
@@ -68,21 +71,23 @@ woftw experience
 **War of the Worlds - Immersive Experience** (March 2019 - December 2019)  
 FOH
 
-- Any experience relevent to software development
+- Changing positions every day according to where they needed more help. Here was my first introduction to coding.
 
 **National Theatre** (April 2016 - August 2016)  
 Actor
 
-- Any experience relevent to software development
+- Member of a six people cast under the direction of Simon Godwin.
 
 **Theatre** (2013 - 2014)  
 Director's Assistant
 
-- Any experience relevent to software development
+- Organising schedules
+- Liaising with different departments of the production
+- Assisting in rehearsals
 
 ## Hobbies
 
 - Cooking : I think I love eating more than cooking but I have to make it first.
-- Hiking : Every chance I get I will leave London to go for a hike. I am in my most relaxed state.
-- Anything that has to do with my dog : I just love that dog so much!
-- Gaming : Any sort of game, be it on a console or board game.
+- Hiking : Every chance I get I will leave London to go for a hike.
+- My dog : I just love that dog so much!
+- Pottery : When I potter I am in my most relaxed state.
