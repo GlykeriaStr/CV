@@ -22,22 +22,20 @@ I am a junior back end developer and graduate of Makers Academy. I value clean, 
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Like to learn
 
-#### This Skill
+Lego - trying something new - learned guitar - french,italian,english
 
-- Experience
-- Achievements
-- Evidence
+#### Communication
 
-#### Another Skill
+hospitality experience
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Time management
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Fast Learner
+
+learning lines
+woftw experience
 
 #### Languages
 
@@ -50,10 +48,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, React
+- Ruby, Rails, JavaScript, React, HTML, CSS
 - SQL, PostGres
 - RSpec, Capybara, Jasmine, Jest
-- CI/CD tools, Heroku
 
 #### Drama Studio London (2013 - 2015)
 
@@ -62,7 +59,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 #### University of Ioannina, Greece (2007 - 2011)
 
 - BA in Fine Arts
-- Specialised on printmaking
+- Specialised in printmaking
 - Art history
 - Life drawing
 
