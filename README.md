@@ -24,26 +24,25 @@ I am a junior back end developer and graduate of Makers Academy. I value clean, 
 
 #### Communication
 
-hospitality experience
+Able to communicate effectively with a wide range of people, by showing interest and carefully listening to their needs. Consistently provided good customer service in my job. Also been awarded for giving excellent customer service from customer feedback survey.
 
 #### Growth mindset
 
-I am curious and always looking to learn. I value feedback as a learning tool, and I try to offer constructive feedback to help my teammates improve.
+I am curious and always looking to learn. I value feedback as a learning tool, and I try to offer constructive feedback to help my teammates improve. I embrace a challenge and whenever I fail, I only see it as an opportunity to learn something new.
 
-#### Creativity
+#### Fast Learner
 
-art - Theatre
-
-#### Fast Learner - Like to learn
-
-learning lines
-woftw experience
-Lego - trying something new - learned guitar - french,italian,english
+In the hospitality industry, I was faced with a lot of environments and situations I was unfamiliar with and had to adapt quickly.
+As an actor I was always proud that I could learn lines very quickly. Also, when having to work with different people for each job I learnt to adapt and work as a team.
+In one of my FOH positions I was trusted after only a few months on the job with as technical support for a VR room.
+Since I was little, I always loved learning. I tauhgt myself how to play the guitar and I learned to speak English, French and Italian, after living in Italy for 6 months.
 
 #### Languages
 
 - English: Full professional fluency
 - Greek: Native fluency
+- French: Conversational
+- Italian: Conversational
 
 ## Education
 
@@ -51,7 +50,7 @@ Lego - trying something new - learned guitar - french,italian,english
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
-- Ruby, Rails, JavaScript, React, HTML, CSS
+- Ruby, Sinatra, Rails, JavaScript, React, HTML, CSS
 - SQL, PostGres
 - RSpec, Capybara, Jasmine, Jest
 
