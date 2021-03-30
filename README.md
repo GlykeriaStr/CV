@@ -5,7 +5,7 @@
 <a href='https://www.linkedin.com/in/glykeria-stravodimou-0ab199209/'>
 <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
 
-[Projects](##Projects) | [Skills](##Skills) | [Education](##Education) | [Experience](##Experience) | [Hobbies](##Hobbies)
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
 
 I am a junior back end developer and graduate of Makers Academy. I value clean, readable and well tested code. In a previous life I was an actor in a CoronaVirus world, so I decided to take my future into my hands and started my coding journey. After a short period of self-learning I signed up with Makers Academy to help me towards my professional debut in the tech industry.
 
