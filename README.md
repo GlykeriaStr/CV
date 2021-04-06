@@ -7,7 +7,7 @@
 
 <a>strglykeria@gmail.com</a>
 
-[Projects](#projects) | [Skills](#skills) | [Tech Skills](#tech) |[Education](#education) | [Experience](#experience) | [Hobbies](#hobbies)
+[Projects](#projects) | [Skills](#skills) | [Tech Skills](#tech) |[Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
 
 I am a junior full stack developer and graduate of Makers Academy. I value clean, readable and well tested code. In a previous life I was an actor in a CoronaVirus world, so I decided to take my future into my hands and started my coding journey. After a short period of self-learning I signed up with Makers Academy to help me towards my professional debut in the tech industry.
 
@@ -22,6 +22,14 @@ I am a junior full stack developer and graduate of Makers Academy. I value clean
 | [Belarus](https://github.com/GlykeriaStr/belarus)                    | A note taking app using an emoji API                                                                                                                  | Javascript, Vanilla Javascript, HTML, CSS, we wrote our own testing framework |
 | [Spring Onion](https://github.com/GlykeriaStr/SmellsLikeGreenSpirit) | Final Project: a mobile app that allows users to be able to calculate the carbon footprint of a single car journey and gives the option to offset it. | React Native, Expo, Javascript, Secure Storage, Jest, Yarn                    |
 | [Bank Test](https://github.com/GlykeriaStr/Bank_Tech_Test)           | This project was intended for practicing OO design and TDD skills as well as producing a clean code                                                   | Ruby, RSpec                                                                   |
+
+## Stats
+
+<a href="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glykeriastr&show_icons=true&theme=radical)](https://github.com/glykeriastr/github-readme-stats)
 
 ## Skills
 
@@ -83,7 +91,7 @@ A 16-week intense coding bootcamp
 - Art history
 - Life drawing
 
-## Experience
+## Work Experience
 
 **War of the Worlds - Immersive Experience** (March 2019 - December 2019)  
 Front of House
