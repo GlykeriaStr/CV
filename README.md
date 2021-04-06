@@ -37,7 +37,7 @@ I believe in hard work and persistence. That's why I did a lot of self-learning 
 
 In the hospitality industry, I was faced with a lot of environments and situations I was unfamiliar with and had to adapt quickly.
 
-Being an actor it was imperative I was a fast learner. I would consistently have a short amount of time to not only come off script but research the roles I played and apply this knowledge in a true and effective manner. This skill has been practiced and tested at makers with a constant abundance of knowledge but I have taken it all on board and consistently produced projects I am proud of that reflect my ability to absorb knowledge quickly and in intense situations.
+Being an actor it was imperative I was a fast learner. I would consistently have a short amount of time to not only come off script but research the roles I played and apply this knowledge in a true and effective manner. This skill has been practiced and tested at Makers with a constant abundance of knowledge but I have taken it all on board and consistently produced projects I am proud of that reflect my ability to absorb knowledge quickly and in intense situations.
 
 In one of my Front of House positions I was trusted after only a few months on the job with as technical support for a VR room.
 
@@ -88,9 +88,9 @@ A 16-week intense coding bootcamp
 **War of the Worlds - Immersive Experience** (March 2019 - December 2019)  
 Front of House
 
-- Changing positions every day according to where they needed more help.
+- Changing positions every day according to where they needed more help
 - Dealing with complaints
-- VR technician
+- Technical support for VR room
 - Managing customer service experience
 - Administration
 - In charge of bookings
