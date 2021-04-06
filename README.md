@@ -15,31 +15,31 @@ I am a junior full stack developer and graduate of Makers Academy. I value clean
 
 ## Projects
 
-| Project                                                              | Description                                                                                                                                   | Technologies                                               |
-| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| [MakersBnB](https://github.com/GlykeriaStr/MakersBnB)                | My first group Project, a clone of AirBnB                                                                                                     | Ruby, Sinatra, Capybara, Rspec, PostreSQL, HTML, CSS       |
-| [Pipeface](https://github.com/GlykeriaStr/acebook--Pipeface-)        | A facebook clone                                                                                                                              | Ruby, Rails, Devise, Rspec, Capybara, Circle CI/CD         |
-| [Spring Onion](https://github.com/GlykeriaStr/SmellsLikeGreenSpirit) | Final Project: a mobile app that allows users to be able to calculate the carbon footprint of car journeys and gives the option to offset it. | React Native, Expo, Javascript, Secure Storage, Jest, Yarn |
-| [Bank Test](https://github.com/GlykeriaStr/Bank_Tech_Test)           | This project was intended for practicing OO design and TDD skills as well as producing a clean code                                           | Ruby, RSpec                                                |
+| Project                                                              | Description                                                                                                                                           | Technologies                                                                  |
+| -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| [MakersBnB](https://github.com/GlykeriaStr/MakersBnB)                | My first group Project, a clone of AirBnB                                                                                                             | Ruby, Sinatra, Capybara, Rspec, PostreSQL, HTML, CSS                          |
+| [Pipeface](https://github.com/GlykeriaStr/acebook--Pipeface-)        | A facebook clone                                                                                                                                      | Ruby, Rails, Devise, Rspec, Capybara, HTML, CSS Circle CI/CD                  |
+| [Belarus](https://github.com/GlykeriaStr/belarus)                    | A note taking app using an emoji API                                                                                                                  | Javascript, Vanilla Javascript, HTML, CSS, we wrote our own testing framework |
+| [Spring Onion](https://github.com/GlykeriaStr/SmellsLikeGreenSpirit) | Final Project: a mobile app that allows users to be able to calculate the carbon footprint of a single car journey and gives the option to offset it. | React Native, Expo, Javascript, Secure Storage, Jest, Yarn                    |
+| [Bank Test](https://github.com/GlykeriaStr/Bank_Tech_Test)           | This project was intended for practicing OO design and TDD skills as well as producing a clean code                                                   | Ruby, RSpec                                                                   |
 
 ## Skills
 
 #### **Communication**
 
-Able to communicate effectively with a wide range of people, by showing interest and carefully listening to their needs. Consistently provided good customer service in my job. Also been awarded for giving excellent customer service from customer feedback survey.
+Providing excellent customer service means being able to communicate effectively by showing interest and carefully listening to the customer's needs. These skills have helped me throughout my working life and I was able to apply them within teams at Makers. Being able to vocalise my needs but also listen to others to create an effective and supportive team environment.
 
 #### **Growth mindset**
 
-I am curious and always looking to learn. I value feedback as a learning tool, and I try to offer constructive feedback to help my teammates improve. I embrace a challenge and whenever I fail, I only see it as an opportunity to learn something new.
+I believe in hard work and persistence. That's why I did a lot of self-learning coding before I joined Makers and this skill has only grown since being a part of Makers community. I value feedback as a learning tool, and I was asking for it from my teammates and pairing partners as well as my coaches. I embrace a challenge and I consistently try to improve and learn something new. Since I was little, I always loved learning. I taught myself how to play the guitar and I learned to speak English, French and Italian, after living in Italy for 6 months.
 
 #### **Fast Learner**
 
 In the hospitality industry, I was faced with a lot of environments and situations I was unfamiliar with and had to adapt quickly.
 
-As an actor I was always proud that I could learn lines very quickly. Also, when having to work with different people for each job I learnt to adapt and work as a team.
+Being an actor it was imperative I was a fast learner. I would consistently have a short amount of time to not only come off script but research the roles I played and apply this knowledge in a true and effective manner. This skill has been practiced and tested at makers with a constant abundance of knowledge but I have taken it all on board and consistently produced projects I am proud of that reflect my ability to absorb knowledge quickly and in intense situations.
 
-In one of my FOH positions I was trusted after only a few months on the job with as technical support for a VR room.
-Since I was little, I always loved learning. I taught myself how to play the guitar and I learned to speak English, French and Italian, after living in Italy for 6 months.
+In one of my Front of House positions I was trusted after only a few months on the job with as technical support for a VR room.
 
 #### Languages
 
@@ -50,26 +50,31 @@ Since I was little, I always loved learning. I taught myself how to play the gui
 
 ## Tech
 
-- Languages : Ruby, Rails, Javascript, React Native, HTML/CSS, SQL, Python
-- Web frameworks : Sinatra, JQuery, Ruby on Rails, Bootstrap
-- Testing Frameworks : RSpec, Capybara, Jasmine, Jest
-- Databases: PostgreSQL
-- OOP, TDD, MVC, DDD
-- Agile and XP methodologies
-- Good Git and GitHub knowledge
+- **Languages**: Ruby, Rails, Javascript, React Native, HTML/CSS, SQL, Python
+- **Web frameworks**: Sinatra, JQuery, Ruby on Rails, Bootstrap
+- **Testing Frameworks**: RSpec, Capybara, Jasmine, Jest
+- **Databases**: PostgreSQL
 
 ## Education
 
 #### Makers Academy (January 2021 - March 2021)
 
+A 16-week intense coding bootcamp
+
 - Pair-programming
 - Curiosity and passion for code
 - Commitment to best practices and delivering watertight code
 - Independent learner and problem-solver
+- OOP, TDD, MVC, DDD
+- Agile and XP methodologies
+- Good Git and GitHub knowledge
 
 #### Drama Studio London (2013 - 2015)
 
 - Acting
+- Signing
+- Dancing
+- Stage Combat
 
 #### University of Ioannina, Greece (2007 - 2011)
 
@@ -81,9 +86,14 @@ Since I was little, I always loved learning. I taught myself how to play the gui
 ## Experience
 
 **War of the Worlds - Immersive Experience** (March 2019 - December 2019)  
-FOH
+Front of House
 
-- Changing positions every day according to where they needed more help. Here was my first introduction to coding.
+- Changing positions every day according to where they needed more help.
+- Dealing with complaints
+- VR technician
+- Managing customer service experience
+- Administration
+- In charge of bookings
 
 **National Theatre** (April 2016 - August 2016)  
 Actor
