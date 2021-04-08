@@ -9,7 +9,7 @@
 
 [Projects](#projects) | [Stats](#stats) | [Skills](#skills) | [Tech Skills](#tech) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
 
-I am a junior full stack developer and graduate of Makers Academy. I value clean, readable and well tested code. In a previous life I was an actor in a CoronaVirus world, so I decided to take my future into my hands and started my coding journey. After a short period of self-learning I signed up with Makers Academy to help me towards my professional debut in the tech industry.
+I am a **junior backend developer** and graduate of Makers Academy. I value clean, readable and well tested code. In a previous life I was an actor in a CoronaVirus world, so I decided to take my future into my hands and started my coding journey. After a short period of self-learning I signed up with Makers Academy to help me towards my professional debut in the tech industry.
 
 </div>
 
@@ -18,18 +18,10 @@ I am a junior full stack developer and graduate of Makers Academy. I value clean
 | Project                                                              | Description                                                                                                                                           | Technologies                                                                  |
 | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | [MakersBnB](https://github.com/GlykeriaStr/MakersBnB)                | My first group Project, a clone of AirBnB                                                                                                             | Ruby, Sinatra, Capybara, Rspec, PostreSQL, HTML, CSS                          |
-| [Pipeface](https://github.com/GlykeriaStr/acebook--Pipeface-)        | A facebook clone                                                                                                                                      | Ruby, Rails, Devise, Rspec, Capybara, HTML, CSS Circle CI/CD                  |
+| [Pipeface](https://github.com/GlykeriaStr/acebook--Pipeface-)        | A facebook clone from a team that loves Mario                                                                                                         | Ruby, Rails, Devise, Rspec, Capybara, HTML, CSS Circle CI/CD                  |
 | [Belarus](https://github.com/GlykeriaStr/belarus)                    | A note taking app using an emoji API                                                                                                                  | Javascript, Vanilla Javascript, HTML, CSS, we wrote our own testing framework |
 | [Spring Onion](https://github.com/GlykeriaStr/SmellsLikeGreenSpirit) | Final Project: a mobile app that allows users to be able to calculate the carbon footprint of a single car journey and gives the option to offset it. | React Native, Expo, Javascript, Secure Storage, Jest, Yarn                    |
 | [Bank Test](https://github.com/GlykeriaStr/Bank_Tech_Test)           | This project was intended for practicing OO design and TDD skills as well as producing a clean code                                                   | Ruby, RSpec                                                                   |
-
-## Stats
-
-<a href="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glykeriastr&show_icons=true&theme=radical)](https://github.com/glykeriastr/github-readme-stats)
 
 ## Skills
 
@@ -41,13 +33,19 @@ Providing excellent customer service means being able to communicate effectively
 
 I believe in hard work and persistence. That's why I did a lot of self-learning coding before I joined Makers and this skill has only grown since being a part of Makers community. I value feedback as a learning tool, and I was asking for it from my teammates and pairing partners as well as my coaches. I embrace a challenge and I consistently try to improve and learn something new. Since I was little, I always loved learning. I taught myself how to play the guitar and I learned to speak English, French and Italian, after living in Italy for 6 months.
 
-#### **Fast Learner**
-
-In the hospitality industry, I was faced with a lot of environments and situations I was unfamiliar with and had to adapt quickly.
+#### **Adaptable through Fast Learning**
 
 Being an actor it was imperative I was a fast learner. I would consistently have a short amount of time to not only come off script but research the roles I played and apply this knowledge in a true and effective manner. This skill has been practiced and tested at Makers with a constant abundance of knowledge but I have taken it all on board and consistently produced projects I am proud of that reflect my ability to absorb knowledge quickly and in intense situations.
 
-In one of my Front of House positions I was trusted after only a few months on the job with as technical support for a VR room.
+In the hospitality industry, I was faced with a lot of environments and situations I was unfamiliar with and had to adapt quickly.
+
+## Stats
+
+<a href="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glykeriastr&show_icons=true&theme=radical&hide=shell)](https://github.com/glykeriastr/github-readme-stats)
 
 #### Languages
 
@@ -76,8 +74,11 @@ A 16-week intense coding bootcamp
 - OOP, TDD, MVC, DDD
 - Agile and XP methodologies
 - Good Git and GitHub knowledge
+- Emotional Intelligence
 
 #### Drama Studio London (2013 - 2015)
+
+A 2 year in-depth course in all aspects of performance
 
 - Acting
 - Signing
@@ -85,6 +86,8 @@ A 16-week intense coding bootcamp
 - Stage Combat
 
 #### University of Ioannina, Greece (2007 - 2011)
+
+A 4-year BA(Hons) degree covering all forms of art and art history
 
 - BA in Fine Arts
 - Specialised in printmaking
@@ -111,9 +114,11 @@ Actor
 **Theatre** (2013 - 2014)  
 Director's Assistant
 
-- Organising schedules
+- Organising schedules and keeping people accountable to them
 - Liaising with different departments of the production
-- Assisting in rehearsals
+- Assisting the director during rehearsals
+- Running warm-ups every morning
+- Helping the actors with lines
 
 ## Hobbies
 
