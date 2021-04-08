@@ -31,7 +31,7 @@ Providing excellent customer service means being able to communicate effectively
 
 #### **Growth mindset**
 
-I believe in hard work and persistence. That's why I did a lot of self-learning coding before I joined Makers and this skill has only grown since being a part of Makers community. I value feedback as a learning tool, and I was asking for it from my teammates and pairing partners as well as my coaches. I embrace a challenge and I consistently try to improve and learn something new. Since I was little, I always loved learning. I taught myself how to play the guitar and I learned to speak English, French and Italian, after living in Italy for 6 months.
+I am very hard working and persistant. That's why I did a lot of self-learning coding before I joined Makers and this skill has only grown since being a part of Makers community. I value feedback as a learning tool, and I was asking for it from my teammates and pairing partners as well as my coaches. I embrace a challenge and I consistently try to improve and learn something new. Since I was little, I always loved learning. I taught myself how to play the guitar and I learned to speak English, French and Italian, after living in Italy for 6 months.
 
 #### **Adaptable through Fast Learning**
 
@@ -96,6 +96,8 @@ A 4-year BA(Hons) degree covering all forms of art and art history
 
 ## Work Experience
 
+**Hospitality (2015 - 2019)**
+
 **War of the Worlds - Immersive Experience** (March 2019 - December 2019)  
 Front of House
 
@@ -106,12 +108,37 @@ Front of House
 - Administration
 - In charge of bookings
 
+**Blues Kitchen** (2015 - 2016 / 2017 - 2018)  
+Server
+
+- Serve food and begerages in an efficient, courteous and professional manner
+- Formally recognised for excellent customer service on numerous occasions
+- Skillfully anticipated and addressed guest service needs
+- Dealing with complaints
+- Effectively communicating with kitchen staff regatding customer's allergies, dietany needs and other special requests
+
+**Perfect Blend** (2018 - 2019)  
+Barista - Server
+
+- Process drink orders from basic to complex, quickly and effienctly
+- Monitor inventory of supplies on hand
+- Processed payments, refunds and replacements as necessary to help customers troubleshoot their issues
+- Performed pre-shift and post-shift duties, such as setting up and clearing out
+- Dealt with difficult situations with patience and calm demeanour when customers were being inappropriate
+
+**Theatre (2012 - 2020)**
+
 **National Theatre** (April 2016 - August 2016)  
 Actor
 
 - Member of a six people cast under the direction of Simon Godwin.
 
-**Theatre** (2013 - 2014)  
+**Assassin's Creed: Origins** (2017)  
+Voice Actor
+
+- Voiced one of the character's of the Video Game speaking in ancient Greek
+
+**Theatre** (2012 - 2013)  
 Director's Assistant
 
 - Organising schedules and keeping people accountable to them
