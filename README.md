@@ -25,13 +25,17 @@ I am a **junior backend developer** and graduate of Makers Academy. I value clea
 
 ## Skills
 
+#### **Innovative**
+
+Having an artistic background has always helped me with approaching problems in many different ways. When something is not working I will try and think outside the box and bring creative ideas to the table. This side of me also comes up when I am in a team. I am not afraid to play, so when my team needed a boost I suggested we have a small dance session for our stand ups.
+
 #### **Communication**
 
-Providing excellent customer service means being able to communicate effectively by showing interest and carefully listening to the customer's needs. These skills have helped me throughout my working life and I was able to apply them within teams at Makers. Being able to vocalise my needs but also listen to others to create an effective and supportive team environment.
+Having worked for many years in the hospitality industry, I provide excellent customer service by communicating effectively, showing interest and carefully listening to the customer's needs. These skills have helped me throughout my working life and I was able to apply them within teams at Makers. Being able to vocalise my needs but also listen to others to create an effective and supportive team environment.
 
 #### **Growth mindset**
 
-I am very hard working and persistant. That's why I did a lot of self-learning coding before I joined Makers and this skill has only grown since being a part of Makers community. I value feedback as a learning tool, and I was asking for it from my teammates and pairing partners as well as my coaches. I embrace a challenge and I consistently try to improve and learn something new. Since I was little, I always loved learning. I taught myself how to play the guitar and I learned to speak English, French and Italian, after living in Italy for 6 months.
+I am very hard working and persistent. Before joining Makers Academy I did a lot of self-learning coding and this skill has only grown since being a part of Makers community. I value feedback as a learning tool, and I was asking for it from my teammates and pairing partners as well as my coaches. I embrace a challenge and I consistently try to improve and learn something new. Since I was little, I always loved learning. I taught myself how to play the guitar and I learned to speak English, French and Italian, after living in Italy for 6 months.
 
 #### **Adaptable through Fast Learning**
 
