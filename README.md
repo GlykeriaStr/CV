@@ -7,7 +7,7 @@
 
 <a>strglykeria@gmail.com</a>
 
-[Projects](#projects) | [Stats](#stats) | [Skills](#skills) | [Tech Skills](#tech) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
+[Projects](#projects) | [Skills](#skills) | [Tech Skills](#tech) | [Stats](#stats) | [Education](#education) | [Work Experience](#work-experience) | [Hobbies](#hobbies)
 
 I am a **junior backend developer** and graduate of Makers Academy. I value clean, readable and well tested code. In a previous life I was an actor in a CoronaVirus world, so I decided to take my future into my hands and started my coding journey. After a short period of self-learning I signed up with Makers Academy to help me towards my professional debut in the tech industry.
 
@@ -39,14 +39,6 @@ Being an actor it was imperative I was a fast learner. I would consistently have
 
 In the hospitality industry, I was faced with a lot of environments and situations I was unfamiliar with and had to adapt quickly.
 
-## Stats
-
-<a href="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical">
-  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical" />
-</a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glykeriastr&show_icons=true&theme=radical&hide=shell)](https://github.com/glykeriastr/github-readme-stats)
-
 #### Languages
 
 - English: Full professional fluency
@@ -60,6 +52,14 @@ In the hospitality industry, I was faced with a lot of environments and situatio
 - **Web frameworks**: Sinatra, JQuery, Ruby on Rails, Bootstrap
 - **Testing Frameworks**: RSpec, Capybara, Jasmine, Jest
 - **Databases**: PostgreSQL
+
+## Stats
+
+<a href="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=GlykeriaStr&show_icons=true&theme=radical" />
+</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=glykeriastr&show_icons=true&theme=radical&hide=shell)](https://github.com/glykeriastr/github-readme-stats)
 
 ## Education
 
@@ -108,15 +108,6 @@ Front of House
 - Administration
 - In charge of bookings
 
-**Blues Kitchen** (2015 - 2016 / 2017 - 2018)  
-Server
-
-- Serve food and begerages in an efficient, courteous and professional manner
-- Formally recognised for excellent customer service on numerous occasions
-- Skillfully anticipated and addressed guest service needs
-- Dealing with complaints
-- Effectively communicating with kitchen staff regatding customer's allergies, dietany needs and other special requests
-
 **Perfect Blend** (2018 - 2019)  
 Barista - Server
 
@@ -124,19 +115,28 @@ Barista - Server
 - Monitor inventory of supplies on hand
 - Processed payments, refunds and replacements as necessary to help customers troubleshoot their issues
 - Performed pre-shift and post-shift duties, such as setting up and clearing out
-- Dealt with difficult situations with patience and calm demeanour when customers were being inappropriate
+- Dealt with difficult situations with patience and calm demeanour when needed
+
+**Blues Kitchen** (2015 - 2016 / 2017 - 2018)  
+Server
+
+- Serve food and begerages in an efficient, courteous and professional manner
+- Formally recognised for excellent customer service on numerous occasions
+- Skillfully anticipated and addressed guest service needs
+- Dealing with complaints
+- Effectively communicating with kitchen staff regarding customer's allergies, dietany needs and other special requests
 
 **Theatre (2012 - 2020)**
-
-**National Theatre** (April 2016 - August 2016)  
-Actor
-
-- Member of a six people cast under the direction of Simon Godwin.
 
 **Assassin's Creed: Origins** (2017)  
 Voice Actor
 
 - Voiced one of the character's of the Video Game speaking in ancient Greek
+
+**National Theatre** (April 2016 - August 2016)  
+Actor
+
+- Member of a six people cast under the direction of Simon Godwin.
 
 **Theatre** (2012 - 2013)  
 Director's Assistant
