@@ -43,6 +43,10 @@ Being an actor it was imperative I was a fast learner. I would consistently have
 
 In the hospitality industry, I was faced with a lot of environments and situations I was unfamiliar with and had to adapt quickly.
 
+#### **Team Player**
+
+I pride myself in being a good and supportive team player. It has been many times thoughout Makers Academy when my teammates or fellow students needed help and I was always happy to explain whatever I could. This skill has also been very useful in my acting career. When I was working at the National Theatre, one member of the cast couldn't speak English very well so I was translating,helping them with their lines and was there during rehearsals even if I wasn't personally needed to assist with the rehearsal.
+
 #### Languages
 
 - English: Full professional fluency
